@@ -8,6 +8,10 @@ public class Newtest
 	public void testnew()
 	{
 		System.out.println("new");
+		System.out.println("new2");
+		
+		
+		
 	}
 
 }
