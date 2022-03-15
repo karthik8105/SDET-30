@@ -16,6 +16,7 @@ public class Newtest
 		
 		System.out.println("new");
 		System.out.println("new2");
+		System.out.println("kjhvsd");
 	}
 
 }
