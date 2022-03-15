@@ -13,6 +13,9 @@ public class Newtest
 		
 		
 		
+		  
+		
+		
 		
 		System.out.println("new");
 		System.out.println("new2");
